@@ -40,5 +40,12 @@
         "source": "",
         "published_at": "2026-04-13T07:31:20+00:00",
         "archived_at": "2026-04-14T04:13:57.972308+00:00"
+    },
+    "https://www.msn.com/en-us/news/technology/claude-is-better-than-gemini-for-python-but-its-unusable-until-anthropic-fixes-this-one-problem/ar-AA21mmEX": {
+        "title": "Claude is better than Gemini for Python, but it's unusable until Anthropic fixes this one problem",
+        "file": "doc/2026-04-20/Claude is better than Gemini for Python, but it's unusable until Anthropic fixes this one problem.md",
+        "source": "",
+        "published_at": "2026-04-20T07:30:21+00:00",
+        "archived_at": "2026-04-21T04:16:34.890663+00:00"
     }
 }
