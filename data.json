@@ -82,5 +82,19 @@
         "source": "",
         "published_at": "2026-04-27T07:05:00+00:00",
         "archived_at": "2026-04-28T04:39:16.387337+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-integration-boosts-canva-s-ai-powered-design-workflow/gm-GM5CAB1509": {
+        "title": "Claude integration boosts Canva’s AI-powered design workflow",
+        "file": "doc/2026-04-29/Claude integration boosts Canva’s AI-powered design workflow.md",
+        "source": "",
+        "published_at": "2026-04-29T12:38:00+00:00",
+        "archived_at": "2026-04-30T04:38:25.314791+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-integration-boosts-canva-s-design-workflow/gm-GMBD441145": {
+        "title": "Claude integration boosts Canva’s design workflow",
+        "file": "doc/2026-04-29/Claude integration boosts Canva’s design workflow.md",
+        "source": "",
+        "published_at": "2026-04-29T09:41:00+00:00",
+        "archived_at": "2026-04-30T04:38:25.314791+00:00"
     }
 }
