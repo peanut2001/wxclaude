@@ -96,5 +96,26 @@
         "source": "",
         "published_at": "2026-04-29T09:41:00+00:00",
         "archived_at": "2026-04-30T04:38:25.314791+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-and-notebooklm-pairing-aims-to-boost-research-accuracy/gm-GMABDB5C9F": {
+        "title": "Claude and NotebookLM pairing aims to boost research accuracy",
+        "file": "doc/2026-05-01/Claude and NotebookLM pairing aims to boost research accuracy.md",
+        "source": "",
+        "published_at": "2026-05-01T20:41:00+00:00",
+        "archived_at": "2026-05-02T04:24:18.755765+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-notebooklm-combo-offers-new-model-for-ai-research/gm-GM02C8B8B2": {
+        "title": "Claude–NotebookLM combo offers new model for AI research",
+        "file": "doc/2026-05-01/Claude–NotebookLM combo offers new model for AI research.md",
+        "source": "",
+        "published_at": "2026-05-01T20:13:00+00:00",
+        "archived_at": "2026-05-02T04:24:18.755765+00:00"
+    },
+    "https://beincrypto.com/apple-claude-code-ai-internal-leak/": {
+        "title": "Apple Is Using Claude Inside the Company Workflow, Leaked Documents Show",
+        "file": "doc/2026-05-01/Apple Is Using Claude Inside the Company Workflow, Leaked Documents Show.md",
+        "source": "",
+        "published_at": "2026-05-01T04:45:00+00:00",
+        "archived_at": "2026-05-02T04:24:18.755765+00:00"
     }
 }
