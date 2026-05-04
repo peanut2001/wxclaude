@@ -117,5 +117,19 @@
         "source": "",
         "published_at": "2026-05-01T04:45:00+00:00",
         "archived_at": "2026-05-02T04:24:18.755765+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-edges-out-gemini-in-workflow-test-as-ai-tools-reshape-game-design/gm-GM54D0D21D": {
+        "title": "Claude edges out Gemini in workflow test as AI tools reshape game design",
+        "file": "doc/2026-05-03/Claude edges out Gemini in workflow test as AI tools reshape game design.md",
+        "source": "",
+        "published_at": "2026-05-03T19:14:00+00:00",
+        "archived_at": "2026-05-04T04:47:44.348122+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-and-gemini-take-divergent-paths-in-workflow-race/gm-GMC072B65A": {
+        "title": "Claude and Gemini take divergent paths in workflow race",
+        "file": "doc/2026-05-03/Claude and Gemini take divergent paths in workflow race.md",
+        "source": "",
+        "published_at": "2026-05-03T18:52:00+00:00",
+        "archived_at": "2026-05-04T04:47:44.348122+00:00"
     }
 }
