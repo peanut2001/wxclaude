@@ -159,5 +159,19 @@
         "source": "",
         "published_at": "2026-05-07T12:54:00+00:00",
         "archived_at": "2026-05-08T04:20:46.482415+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-code-creator-shares-workflow-tips-and-new-tools/gm-GMB74CFA38": {
+        "title": "Claude Code creator shares workflow tips and new tools",
+        "file": "doc/2026-05-08/Claude Code creator shares workflow tips and new tools.md",
+        "source": "",
+        "published_at": "2026-05-08T12:34:00+00:00",
+        "archived_at": "2026-05-09T04:30:18.064748+00:00"
+    },
+    "https://www.msn.com/en-us/news/other/claude-code-gains-edge-with-workflow-focused-optimizations/gm-GM387E4E8A": {
+        "title": "Claude Code gains edge with workflow-focused optimizations",
+        "file": "doc/2026-05-08/Claude Code gains edge with workflow-focused optimizations.md",
+        "source": "",
+        "published_at": "2026-05-08T12:12:00+00:00",
+        "archived_at": "2026-05-09T04:30:18.064748+00:00"
     }
 }
