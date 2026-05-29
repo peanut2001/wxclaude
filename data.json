@@ -215,5 +215,19 @@
         "source": "",
         "published_at": "2026-05-27T12:22:00+00:00",
         "archived_at": "2026-05-28T05:17:07.206770+00:00"
+    },
+    "https://winbuzzer.com/2026/05/29/anthropic-ships-opus-48-with-dynamic-workflows-xcxwbn/": {
+        "title": "Anthropic Ships Opus 4.8 with New Dynamic Workflow Feature For Claude Code",
+        "file": "doc/2026-05-28/Anthropic Ships Opus 4.8 with New Dynamic Workflow Feature For Claude Code.md",
+        "source": "",
+        "published_at": "2026-05-28T21:46:00+00:00",
+        "archived_at": "2026-05-29T05:19:37.106915+00:00"
+    },
+    "https://www.analyticsinsight.net/artificial-intelligence/10-ai-prompting-tips-to-improve-chatgpt-claude-and-gemini-results": {
+        "title": "10 AI Prompting Tips to Improve ChatGPT, Claude, and Gemini Results",
+        "file": "doc/2026-05-28/10 AI Prompting Tips to Improve ChatGPT, Claude, and Gemini Results.md",
+        "source": "",
+        "published_at": "2026-05-28T16:05:00+00:00",
+        "archived_at": "2026-05-29T05:19:37.106915+00:00"
     }
 }
