@@ -264,5 +264,19 @@
         "source": "",
         "published_at": "2026-06-02T06:14:00+00:00",
         "archived_at": "2026-06-03T06:11:05.313362+00:00"
+    },
+    "https://www.jdsupra.com/legalnews/claude-for-legal-is-here-now-legal-9466193/": {
+        "title": "Claude for Legal Is Here – Now Legal Teams Need the Workflow Layer to Scale Its Impact",
+        "file": "doc/2026-06-04/Claude for Legal Is Here – Now Legal Teams Need the Workflow Layer to Scale Its Impact.md",
+        "source": "",
+        "published_at": "2026-06-04T12:37:00+00:00",
+        "archived_at": "2026-06-05T05:25:41.714680+00:00"
+    },
+    "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html": {
+        "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+        "file": "doc/2026-06-04/Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories.md",
+        "source": "",
+        "published_at": "2026-06-04T12:32:00+00:00",
+        "archived_at": "2026-06-05T05:25:41.714680+00:00"
     }
 }
