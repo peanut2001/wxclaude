@@ -327,5 +327,12 @@
         "source": "",
         "published_at": "2026-06-29T05:30:22+00:00",
         "archived_at": "2026-06-30T05:13:57.024698+00:00"
+    },
+    "https://www.techtimes.com/articles/319532/20260702/claude-code-dynamic-workflows-go-ga-pro-users-can-now-spawn-1000-parallel-agents.htm": {
+        "title": "Claude Code Dynamic Workflows Go GA: Pro Users Can Now Spawn 1,000 Parallel Agents",
+        "file": "doc/2026-07-02/Claude Code Dynamic Workflows Go GA Pro Users Can Now Spawn 1,000 Parallel Agents.md",
+        "source": "",
+        "published_at": "2026-07-02T08:12:00+00:00",
+        "archived_at": "2026-07-03T04:51:29.655808+00:00"
     }
 }
