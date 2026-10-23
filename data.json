@@ -348,5 +348,19 @@
         "source": "",
         "published_at": "2026-07-21T06:00:00+00:00",
         "archived_at": "2026-07-22T04:25:26.684976+00:00"
+    },
+    "https://note.com/aigamelab/n/n53c1939eedf9?hl=en": {
+        "title": "The 'Design Document' I First Give to Claude and My Workflow for Making Games",
+        "file": "doc/2026-10-22/The 'Design Document' I First Give to Claude and My Workflow for Making Games.md",
+        "source": "",
+        "published_at": "2026-10-22T22:56:00+00:00",
+        "archived_at": "2026-10-23T05:56:09.804567+00:00"
+    },
+    "https://www.xda-developers.com/claude-codes-creator-says-better-prompts-need-just-3-things/": {
+        "title": "Claude Code's creator says better prompts need just 3 things, so I tested his approach",
+        "file": "doc/2026-10-22/Claude Code's creator says better prompts need just 3 things, so I tested his approach.md",
+        "source": "",
+        "published_at": "2026-10-22T11:00:00+00:00",
+        "archived_at": "2026-10-23T05:56:09.804567+00:00"
     }
 }
