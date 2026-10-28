@@ -369,5 +369,19 @@
         "source": "",
         "published_at": "2026-10-26T14:30:00+00:00",
         "archived_at": "2026-10-27T06:10:27.981034+00:00"
+    },
+    "https://blockchain.news/news/anthropic-claude-financial-advisors-connectors-workflow-skills": {
+        "title": "Anthropic Adds Financial Advisor Connectors and Workflow Skills to Claude",
+        "file": "doc/2026-10-27/Anthropic Adds Financial Advisor Connectors and Workflow Skills to Claude.md",
+        "source": "",
+        "published_at": "2026-10-27T14:12:00+00:00",
+        "archived_at": "2026-10-28T06:47:11.731550+00:00"
+    },
+    "https://seekingalpha.com/news/4658310-anthropic-launches-claude-for-financial-advisors": {
+        "title": "Anthropic launches Claude for Financial Advisors",
+        "file": "doc/2026-10-27/Anthropic launches Claude for Financial Advisors.md",
+        "source": "",
+        "published_at": "2026-10-27T14:01:00+00:00",
+        "archived_at": "2026-10-28T06:47:11.731550+00:00"
     }
 }
