@@ -390,5 +390,19 @@
         "source": "",
         "published_at": "2026-11-01T18:31:00+00:00",
         "archived_at": "2026-11-02T07:34:52.063669+00:00"
+    },
+    "https://www.analyticsinsight.net/github/github-copilot-fusion-vs-claude-code-how-ai-model-orchestration-changes-coding": {
+        "title": "GitHub Copilot Fusion vs Claude Code: How AI Model Orchestration Changes Coding",
+        "file": "doc/2026-11-02/GitHub Copilot Fusion vs Claude Code How AI Model Orchestration Changes Coding.md",
+        "source": "",
+        "published_at": "2026-11-02T19:00:00+00:00",
+        "archived_at": "2026-11-03T07:48:14.282019+00:00"
+    },
+    "https://github.com/aaryann123/prompt-forge": {
+        "title": "Prompt Forge",
+        "file": "doc/2026-11-02/Prompt Forge.md",
+        "source": "",
+        "published_at": "2026-11-02T12:12:00+00:00",
+        "archived_at": "2026-11-03T07:48:14.282019+00:00"
     }
 }
