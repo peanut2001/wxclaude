@@ -446,5 +446,12 @@
         "source": "",
         "published_at": "2026-11-10T09:57:00+00:00",
         "archived_at": "2026-11-11T07:41:39.800183+00:00"
+    },
+    "https://cryptobriefing.com/anthropic-brush-feature-claude-prompt-composer/": {
+        "title": "Anthropic is building a beta Brush tool for Claude’s prompt composer",
+        "file": "doc/2026-11-12/Anthropic is building a beta Brush tool for Claude’s prompt composer.md",
+        "source": "",
+        "published_at": "2026-11-12T08:18:00+00:00",
+        "archived_at": "2026-11-13T07:47:35.762406+00:00"
     }
 }
