@@ -453,5 +453,12 @@
         "source": "",
         "published_at": "2026-11-12T08:18:00+00:00",
         "archived_at": "2026-11-13T07:47:35.762406+00:00"
+    },
+    "https://note.com/namakemonoceo/n/n4adaf4b1304a?hl=en": {
+        "title": "GPT-6.2 is out. Where does it fit in the LP production workflow alongside Claude and Gemini?",
+        "file": "doc/2026-11-18/GPT-6.2 is out. Where does it fit in the LP production workflow alongside Claude and Gemini.md",
+        "source": "",
+        "published_at": "2026-11-18T00:25:00+00:00",
+        "archived_at": "2026-11-18T08:26:09.716186+00:00"
     }
 }
