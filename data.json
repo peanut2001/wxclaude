@@ -467,5 +467,26 @@
         "source": "",
         "published_at": "2026-11-24T02:15:00+00:00",
         "archived_at": "2026-11-24T10:49:16.089394+00:00"
+    },
+    "https://note.com/moto_solo_works/n/nb31a922f0944?hl=en": {
+        "title": "Testing Claude Ship's \"/ship\" on a Real-World Project of About 10,000 Lines: Strengths and Limitations Revealed in Comparison with Copilot",
+        "file": "doc/2026-11-26/Testing Claude Ship's ship on a Real-World Project of About 10,000 Lines Strengths and Limitations Revealed in Compariso.md",
+        "source": "",
+        "published_at": "2026-11-26T01:21:00+00:00",
+        "archived_at": "2026-11-26T09:22:18.259270+00:00"
+    },
+    "https://note.com/noted_gerbil9067/n/n216ecd389a29?hl=en": {
+        "title": "To Those Paying for Claude but Only Getting Shallow Answers | 5 Things to Fix Before Writing Your Prompt, Learned from the Official Guide",
+        "file": "doc/2026-11-25/To Those Paying for Claude but Only Getting Shallow Answers 5 Things to Fix Before Writing Your Prompt, Learned from the.md",
+        "source": "",
+        "published_at": "2026-11-25T22:31:00+00:00",
+        "archived_at": "2026-11-26T09:22:18.259270+00:00"
+    },
+    "https://cryptobriefing.com/anthropic-skills-over-mcp-claude-beta/": {
+        "title": "Anthropic brings Skills over MCP to Claude and Claude Code in public beta",
+        "file": "doc/2026-11-25/Anthropic brings Skills over MCP to Claude and Claude Code in public beta.md",
+        "source": "",
+        "published_at": "2026-11-25T15:07:00+00:00",
+        "archived_at": "2026-11-26T09:22:18.259270+00:00"
     }
 }
